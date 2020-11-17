@@ -9,4 +9,4 @@
 - 📫 How to reach me: **opensource@thelimifiedlime.anonaddy.com**
 - ⚡ Fun fact: **1 + 1 isn't 2. It's a math problem**
 ### GitHub Stats
-![TheLimifiedLime's github stats](https://github-readme-stats.vercel.app/api?username=TheLimifiedLime&?theme=vue)
+![TheLimifiedLime's github stats](https://github-readme-stats.vercel.app/api?username=TheLimifiedLime&?theme=radical)
