@@ -1,4 +1,4 @@
-![Well here we meet](https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif)\
+![Well here we meet](https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif)
 Let's get started shall we?
 
 <!--
