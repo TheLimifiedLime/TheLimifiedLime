@@ -9,5 +9,5 @@
 - 📫 How to reach me: **opensource@thelimifiedlime.anonaddy.com**
 - ⚡ Fun fact: **1 + 1 isn't 2. It's a math problem**
 ### GitHub Stats
-![TheLimifiedLime's github stats](https://github-readme-stats.vercel.app/api?username=TheLimifiedLime&?theme=vue-dark)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLimifiedLime&?theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![TheLimifiedLime's github stats](https://github-readme-stats.vercel.app/api?username=TheLimifiedLime&theme=vue-dark)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLimifiedLime&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
