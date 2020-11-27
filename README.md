@@ -1,5 +1,4 @@
-Welcome! I'm TheLimfiedLime or Issai H
-
+# Welcome! I'm Issai H
 <!--
 **TheLimifiedLime/TheLimifiedLime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Some info about me
