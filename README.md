@@ -13,6 +13,8 @@ A 13 year old developer focusing on Javascript and the languages of the web look
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=ffffff&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=ffffff&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=ffffff&style=for-the-badge)
 
 ### Tech I Use
 ![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=ffffff&style=for-the-badge)
