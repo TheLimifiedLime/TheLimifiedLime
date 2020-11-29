@@ -50,7 +50,7 @@ A 13 year old developer focusing on Javascript and the languages of the web look
 
 ### GitHub Stats
 ![Profile Views](https://api.ghprofile.me/view?username=TheLimifiedLime&color=2ECC71)  
-![TheLimifiedLime's Github Stats](https://github-readme-stats.vercel.app/api?username=TheLimifiedLime&theme=vue-dark)  
+![TheLimifiedLime's Github Stats](https://github-readme-stats.vercel.app/api?username=TheLimifiedLime&theme=vue-dark&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLimifiedLime&theme=vue-dark)  
 
 ### Credit
