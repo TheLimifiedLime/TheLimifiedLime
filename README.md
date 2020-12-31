@@ -6,7 +6,7 @@ A 13 year old developer focusing on Javascript and the languages of the web look
 - 🔭 I’m currently working on **[Link Shortener](https://github.com/TheLimifiedLime/Link-Shortener-Bot)**
 - 🌱 I’m currently learning **Javascript, HTML, CSS**
 - 💬 Ask me about **How many times I have messed up something simple**
-- 📫 How to reach me: **opensource@thelimifiedlime.anonaddy.com**
+- 📫 How to reach me: **contact@issai.club**
 - ⚡ Fun fact: **1 + 1 isn't 2. It's a math problem**
 
 ### Languages
