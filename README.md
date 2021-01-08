@@ -23,11 +23,11 @@ A 13 year old developer focusing on Javascript and the languages of the web look
 
 ### Socials
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=ffffff&style=for-the-badge)](https://dsc.gg/bots)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.com/users/738966191519039640)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/TheLimifiedLime)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=ffffff&style=for-the-badge)](https://reddit.com/u/TheLimifiedLime)
 [![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/TheLimifiedLime)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:opensource@thelimifiedlime.anonaddy.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:contact@issai.club)
 
 ### GitHub Stats
 
