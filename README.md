@@ -7,7 +7,7 @@ A 13 year old developer focusing on Javascript and the languages of the web look
 
 ### Some info about me
 
-- 🔭 I’m currently working on **[Link Shortener](https://github.com/TheLimifiedLime/Link-Shortener-Bot)**
+- 🔭 I’m currently working on **[Link Shortener](https://github.com/SeasideDevs/Link-Shortener-Bot)**
 - 🌱 I’m currently learning **Javascript, HTML, CSS**
 - 💬 Ask me about **How many times I have messed up something simple**
 - 📫 How to reach me: [issai.club](https://issai.club)
